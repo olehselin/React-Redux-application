@@ -1,0 +1,20 @@
+.container {
+  .titleContainer {
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .backLink {
+    margin-bottom: 20px;
+    display: flex;
+  }
+
+  .post {
+    margin-top: 20px;
+
+    .innerContainer {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

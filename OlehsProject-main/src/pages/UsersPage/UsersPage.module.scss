@@ -1,0 +1,15 @@
+.container {
+  .user {
+    margin-top: 20px;
+
+    .innerContainer {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  .spin {
+    justify-content: center;
+    display: flex;
+  }
+}
